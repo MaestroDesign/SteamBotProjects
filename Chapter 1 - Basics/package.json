@@ -1,0 +1,11 @@
+{
+  "name": "steambot",
+  "version": "1.0.0",
+  "description": "Steam Login Bot",
+  "main": "index.js",
+  "author": "Burn1ng Br1ght",
+  "dependencies": {
+    "steam-totp": "^2.0.1",
+    "steam-user": "^3.21.7"
+  }
+}
