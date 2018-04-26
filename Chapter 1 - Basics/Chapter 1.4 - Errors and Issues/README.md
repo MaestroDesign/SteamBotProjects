@@ -5,13 +5,13 @@ When coding a new project, I often get across errors, and it sometimes takes lon
 If you receive random Steam issues, checkout the huge list of Steam error codes
 at [steamerrors.com](https://steamerrors.com).
 
-## "Cannot find module: THE_MODULE_NAME"
+#### "Cannot find module: THE_MODULE_NAME"
 
 If you get this error, you have most likely installed the given module
 incorrectly. Try reinstalling it by typing `npm install THE_MODULE_NAME` again.
 Or try to delete the node_modules folder inside your steam bot folder and then try to use `install.bat` again.
 
-## "Error: InvalidPassword"
+#### "Error: InvalidPassword"
 
 This means you have entered an incorrect `accountName` or `password` in the `config.js`
 Try re-entering them and make sure they work when logging into steam.

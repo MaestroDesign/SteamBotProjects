@@ -2,15 +2,16 @@
 
 ## Table of Contents
 
-- [Chapter 1.1 - Introduction](./Chapter%201.1%20-%20Introduction)
-- [Chapter 1.2 - Prerequisites](./Chapter%201.2%20-%20Prerequisites)
-- [Chapter 1.3 - Starting to Code](./Chapter%201.3%20-%20Starting%20to%20Code)
-- [Chapter 1.4 - TOTP](./Chapter%201.4%20-%20TOTP)
-- [Chapter 1.5 - Errors](./Chapter%201.5%20-%20Errors)
+- [Chapter 1.1 - Intro](./Chapter%201.1%20-%20Intro)
+- [Chapter 1.2 - Requirements](./Chapter%201.2%20-%20Requirements)
+- [Chapter 1.3 - Steam Idle Bot](./Chapter%201.3%20-%Steam%20Idle%20Bot)
+- [Chapter 1.4 - Errors and Issues](./Chapter%201.5%20-%20Errors%20and%20Issues)
 
 ## Summary
 
-In this chapter, you will learn how to make a steam bot that can login to the Steam servers and can idle games like TF2 and CS:GO
+In this chapter, you will learn how to make a steam bot that is able to:
+- Login to the Steam servers
+- Idle games like TF2 and CS:GO
 
 ## Authors
 
